@@ -1,2 +1,2 @@
 # AndroidAIBlog
-Projects contains 
+
